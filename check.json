@@ -1,0 +1,8 @@
+{
+  "device": "a10",
+  "status": "success",
+  "version": "KifliOS-12.5-Stable",
+  "firebase_version": "V12.5.8.0.RCDEUXM",
+  "changelog": "KifliOS frissítés: Exynos optimalizáció, frissített biztonsági patch és saját OTA támogatás!",
+  "url": "https://github.com/Ferx-ux/kifli-os-ota/releases/download/v12.5.8/KifliOS_GalaxyA10.zip"
+}
